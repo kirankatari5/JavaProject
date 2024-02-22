@@ -1,3 +1,5 @@
+# JavaProject
+
 import java.util.Random;
 import java.util.Scanner;
 interface styles
